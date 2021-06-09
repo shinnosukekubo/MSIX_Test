@@ -1,0 +1,11 @@
+MSIX_Server/obj/*
+MSIX_Server/bin/*
+*.user
+*.msix
+
+MSIX_Test_Package/AppPackages/*
+MSIX_Test_Package/obj/*
+MSIX_Test_Package/bin/*
+
+MSIX_Test/obj/*
+MSIX_Test/bin/*
